@@ -1,0 +1,174 @@
+body{
+    background-image: url(starry-sky-1655503_1280.jpg)
+}
+
+.circle
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c1_circle
+{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top:-670px;
+}
+.c2_circle
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -580px;
+}
+.c3-circle
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -520px;
+
+}
+.c4_mars
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -480px;
+}
+.c5_earth
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -430px; 
+    margin-left: 25px;
+}
+.c6_venus
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -380px; 
+   margin-left:50px;
+}
+.c7_mercury
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -340px; 
+    margin-left:65px;
+    
+}
+.c8_sun
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:-250px;
+}
+.neptune
+{
+    width: 1300px;
+    height: 700px;
+    border: 2px solid white;
+   border-radius: 100%;
+
+}
+#nep{
+    position: absolute;
+    top:10px;
+    left: 500px;
+}
+.uranus
+{
+    width: 1200px;
+    height: 625px;
+    border:2px solid white;
+    border-radius: 100%;
+
+}
+#ura
+{
+    position: absolute;
+    top: 5px;
+    
+}
+
+.saturn
+{
+    width: 1100px;
+    height: 550px;
+    border:2px solid white;
+    border-radius: 100%;
+
+}
+#sat
+{
+    position: absolute;
+    top:170px;
+    left:280px;
+}
+.jupiter
+{
+    width: 1000px;
+    height: 500px;
+    border:2px solid white;
+    border-radius: 100%;
+
+
+}
+#jup
+{
+    position: absolute;
+    top: 300px;
+    left: 250px;;
+}
+
+.mars{
+    width: 900px;
+    height: 450px;
+    border: 2px solid white;
+    border-radius: 100%;
+}
+#mar
+{
+    position: absolute;
+    top: 300px;
+    right: 300px;
+}
+.earth{
+    width: 800px;
+    height:400px;
+    border:2px solid white ;
+    border-radius:100%;
+}
+#ear
+{
+    position: absolute;
+    left: 355px;
+}
+.venus
+{
+    width: 700px;
+    height:350px;
+    border:2px solid white ;
+    border-radius:100%;
+}
+#ven{
+    position: absolute;
+    right:360px;
+}
+.mercury{
+    width: 600px;
+    height:300px;
+    border:2px solid white ;
+    border-radius:100%;
+}
+#mer
+{
+    position: absolute;
+    top:480px;
+}
